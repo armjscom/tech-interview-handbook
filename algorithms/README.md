@@ -6,7 +6,7 @@ Here's the Data Structure and Algorithmstable you can learn on [www.techintervie
 
 | Topic             | Priority  |
 |-------------------|-----------|
-| Array             | High      |
+| [Array](https://www.techinterviewhandbook.org/algorithms/array/)             | High      |
 | String            | High      |
 | Hash Table        | Mid       |
 | Recursion         | Mid       |
